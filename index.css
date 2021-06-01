@@ -17,7 +17,7 @@ input[type=text], input[type=password] {
 
 
 .btnclass {
-  background-color: #04AA6D;
+  background-color: blue;
   color: white;
   padding: 14px 20px;
   margin: 30px;
@@ -63,9 +63,6 @@ img.avatar {
 }
 
 .passclass{
-    margin: 15%;
-}
-.btnclass{
     margin: 15%;
 }
 
