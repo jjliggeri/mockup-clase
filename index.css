@@ -25,6 +25,7 @@ input[type=text], input[type=password] {
   cursor: pointer;
   width: 40%;
   border-radius: 10%;
+	font-size: 22px;
   
 }
 
@@ -71,7 +72,6 @@ img.avatar {
   color: black;
   padding: 5px 10px;
   margin:  10px 40px; 
-	border: 1px black solid;
   cursor: pointer;
   border-radius: 10%;
 	
